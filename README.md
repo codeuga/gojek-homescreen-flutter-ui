@@ -1,4 +1,4 @@
 # gojekhomescreen_ui
 
-![Cuplikan layar 2023-12-31 004114](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/c4e8c579-498d-49f9-b334-ac670c00bb5f)
-![Cuplikan layar 2023-12-31 004145](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/0cb319ef-4a5c-48cd-acf8-ff4f4e49b3b2)
+![Cuplikan layar 2023-12-31 004758](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/1a51f99b-b7db-4718-9aa8-304e998d29d3)
+![Cuplikan layar 2023-12-31 004854](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/51cbaabc-39c7-46d7-9fb6-2bfa2af52099)
