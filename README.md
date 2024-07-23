@@ -1,16 +1,4 @@
-# gojekhomescreen_ui
+# GOJEK HOME SCREEN UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cuplikan layar 2023-12-31 004758](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/1a51f99b-b7db-4718-9aa8-304e998d29d3)
+![Cuplikan layar 2023-12-31 004854](https://github.com/anugrahdwic/gojek-homescreen-flutter-ui/assets/155093213/51cbaabc-39c7-46d7-9fb6-2bfa2af52099)
